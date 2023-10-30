@@ -1,6 +1,15 @@
+body {
+  background-color: yellowgreen;
+}
 h1 {
   color: blue;
+  background-color: antiquewhite;
 }
 h2 {
-  color: light blue;
+  color: rgba(0, 0, 255, 0.603);
+  background-color: antiquewhite;
+}
+p {
+  color :rgb(240, 122, 122);
+  background-color: yellow;
 }
